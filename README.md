@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... jbonill4@ucsc.edu
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I wanted to be a chef when I was a little kid 
--->
