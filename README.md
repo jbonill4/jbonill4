@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... Live Sentiment Anaylysis Trading Bot
-- 🌱 I’m currently learning ... React.js
+- 🌱 I’m currently learning ... React.js and Spring Data REST
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything!
